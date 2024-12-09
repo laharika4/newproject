@@ -1,0 +1,17 @@
+jncsuivwyidsygwgyiwyiv
+dckshuc7hiuwufnwygfi
+
+ae hbrvue
+adsflkjsfyfbfwygfbgtudsdhccjdcyh
+vkheruvbuehbhgsfnywhe
+dkdjsuhnuienwvyenvuinveuiwiufhywfhwgf
+fkjuhefnbgvfbwvt
+
+
+new code to resolve merge conflicts as new conflicts for branch2 were added
+
+def greet():
+    print("Hello, World!")
+
+def farewell():
+    print("Goodbye, World!")
