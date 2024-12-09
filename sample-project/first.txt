@@ -8,4 +8,4 @@ dkdjsuhnuienwvyenvuinveuiwiufhywfhwgf
 fkjuhefnbgvfbwvt
 
 
-new code to resolve merge conflicts for branch2
+new code to resolve merge conflicts as new conflicts for branch2 were added
